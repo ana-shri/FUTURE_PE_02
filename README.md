@@ -51,10 +51,6 @@ Projects
 
 Contact
 
-📷 Documentation
-
-Screenshots / short walkthrough video demonstrating website structure and AI features.
-
 🎓 Learning Outcomes
 
 Understanding AI-first web design
